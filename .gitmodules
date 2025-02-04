@@ -1,0 +1,6 @@
+[submodule "src/istari/suPAErnova"]
+	path = src/istari/suPAErnova
+	url = git@github.com:OmegaLambda1998/suPAErnova.git
+[submodule "src/istari/twins_embedding"]
+	path = src/istari/twins_embedding
+	url = git@github.com:OmegaLambda1998/twins_embedding.git
